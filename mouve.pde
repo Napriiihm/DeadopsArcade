@@ -16,6 +16,8 @@ void mouve() {
     x1= x1 -vitesse;
   }
 
+  //if(touche)
+
   //DEUX TOUCHES  
   vitesse= sqrt( pow(vitesse, 2) / 2 );
 
